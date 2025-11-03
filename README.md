@@ -1,4 +1,4 @@
-# Hero Controller (OpenGL + Mixamo)
+# Animation Controller (OpenGL + Mixamo)
 
 โปรเจกต์เกมจำลองการควบคุมตัวละคร 3D  
 พัฒนาโดยใช้ **C++ / OpenGL / GLFW / GLM**  
