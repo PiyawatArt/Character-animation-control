@@ -74,6 +74,9 @@ jump.dae
 ## Demo Video
 
 
-https://github.com/user-attachments/assets/14dd832e-27de-4f7b-85d7-ac88f991c301
+https://github.com/user-attachments/assets/9cf6b9e0-265d-4b54-a2e4-d72a3d56f12a
+
+
+
 
 
